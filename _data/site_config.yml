@@ -22,13 +22,11 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: United Kingdom
+  adjective: United Kingdom
 create_goals:
   previous_next_links: false
   goals: []
-create_indicators:
-  previous_next_links: false
 create_pages:
   - filename: ''
     folder: /goals
